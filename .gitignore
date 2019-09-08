@@ -232,4 +232,8 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 
+### PyCharm ###
+.idea/
+
+
 # End of https://www.gitignore.io/api/venv,python,pycharm,visualstudiocode
